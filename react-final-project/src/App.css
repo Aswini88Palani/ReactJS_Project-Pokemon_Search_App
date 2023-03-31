@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.pagination{
+  justify-content: center;
+}
+
+.pagination a{
+  padding: 10px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.pagination a:hover{
+  background-color: blue;
+  color: white;
+}
+
+.pagination .active a{
+  background-color: blue;
+  color: white;
+}
+
+

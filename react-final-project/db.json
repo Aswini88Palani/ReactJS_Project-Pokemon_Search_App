@@ -1,0 +1,164 @@
+{
+    "pokemons": [
+      {
+        "id": 1,
+        "name": "Bulbasaur",
+        "image": "https://wallsdesk.com/wp-content/uploads/2017/01/Bulbasaur-Wallpapers.jpg",
+        "cp": 1000,
+        "attack": 50,
+        "defence": 40,
+        "type": "Grass",
+        "status" : "Inactive"
+      },
+      {
+        "id": 2,
+        "name": "Charmander",
+        "image": "https://www.kindpng.com/picc/m/117-1172407_charmander-png-charmander-pokemon-transparent-png.png",
+        "cp": 1200,
+        "attack": 60,
+        "defence": 30,
+        "type": "Fire",
+        "status" : "Inactive"
+      },
+      {
+        "id": 3,
+        "name": "Squirtle",
+        "image": "https://pngimg.com/uploads/pokemon/pokemon_PNG156.png",
+        "cp": 1100,
+        "attack": 55,
+        "defence": 35,
+        "type": "Water",
+        "status" : "Inactive"
+      },
+      {
+        "id": 4,
+        "name": "Pikachu",
+        "image": "https://www.cartoonbucket.com/wp-content/uploads/2015/05/Image-Of-Pikachu.png",
+        "cp": 938,
+        "attack": 112,
+        "defence": 96,
+        "type": "Electric",
+        "status" : "Active"
+      },
+      {
+        "id": 5,
+        "name": "Charizard",
+        "image": "https://www.ssbwiki.com/images/thumb/2/21/Charizard_SSBU.png/1200px-Charizard_SSBU.png",
+        "cp": 2889,
+        "attack": 223,
+        "defence": 173,
+        "type": "Fire/Flying",
+        "status" : "Active"
+      },
+      {
+        "id": 6,
+        "name": "Jigglypuff",
+        "image": "https://www.kindpng.com/picc/m/1-11187_jigglypuff-pokemon-jigglypuff-hd-png-download.png",
+        "cp": 524,
+        "attack": 80,
+        "defence": 41,
+        "type": "Normal/Fairy",
+        "status" : "Active"
+      },
+      {
+        "id": 7,
+        "name": "Snorlax",
+        "image": "https://pm1.narvii.com/5824/de0b90e750a02d75bce793d811ddeb28e7d475c5_hq.jpg",
+        "cp": 3225,
+        "attack": 190,
+        "defence": 190,
+        "type": "Normal",
+        "status" : "Active"
+      },
+      {
+        "id": 8,
+        "name": "Mewtwo",
+        "image": "https://wallpapercave.com/wp/wp9003204.jpg",
+        "cp": 4178,
+        "attack": 300,
+        "defence": 182,
+        "type": "Psychic",
+        "status" : "Active"
+      },
+      {
+        "id": 9,
+        "name": "Dragonite",
+        "image": "https://clipground.com/images/dragonite-png-7.jpg",
+        "cp": 3792,
+        "attack": 263,
+        "defence": 198,
+        "type": "Dragon/Flying",
+        "status" : "Active"
+      },
+      {
+        "id": 10,
+        "name": "Gyarados",
+        "image": "https://img.pokemondb.net/artwork/large/gyarados.jpg",
+        "cp": 3281,
+        "attack": 237,
+        "defence": 186,
+        "type": "Water/Flying",
+        "status" : "Active"
+      },
+      {
+        "id": 11,
+        "name": "Arcanine",
+        "image": "https://images2.fanpop.com/image/photos/12800000/Arcanine-arcanine-12802066-320-240.jpg",
+        "cp": 2839,
+        "attack": 227,
+        "defence": 166,
+        "type": "Fire",
+        "status" : "Active"
+      },
+      {
+        "id": 12,
+        "name": "Machamp",
+        "image": "https://wallpapercave.com/wp/wp2225225.jpg",
+        "cp": 3056,
+        "attack": 234,
+        "defence": 162,
+        "type": "Fighting",
+        "status" : "Active"
+      },
+      {
+        "id": 13,
+        "name": "Alakazam",
+        "image": "https://img.pokemondb.net/artwork/vector/large/alakazam.png",
+        "cp": 2887,
+        "attack": 271,
+        "defence": 167,
+        "type": "Psychic",
+        "status" : "Active"
+      },
+      {
+        "id": 14,
+        "name": "Eevee",
+        "image": "https://static.zerochan.net/Eevee.full.1774932.jpg",
+        "cp": 585,
+        "attack": 104,
+        "defence": 121,
+        "type": "Normal",
+        "status" : "Active"
+      },
+      {
+        "id": 15,
+        "name": "Ditto",
+        "image": "https://rebonrei.files.wordpress.com/2015/05/ditto_ag_anime.png",
+        "cp": 718,
+        "attack": 91,
+        "defence": 91,
+        "type": "Normal",
+        "status" : "Active"
+      },
+      {
+        "id": 16,
+        "name": "Lapras",
+        "image": "https://www.nicepng.com/png/full/891-8910646_lapras-png.png",
+        "cp": 2417,
+        "attack": 165,
+        "defence": 174,
+        "type": "Water/Ice",
+        "status" : "Active"
+      }
+    ]
+  }
